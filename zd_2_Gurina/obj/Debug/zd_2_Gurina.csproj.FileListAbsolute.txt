@@ -1,0 +1,10 @@
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\obj\Debug\zd_2_Gurina.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\obj\Debug\zd_2_Gurina.Form1.resources
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\obj\Debug\zd_2_Gurina.Properties.Resources.resources
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\obj\Debug\zd_2_Gurina.csproj.GenerateResource.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\obj\Debug\zd_2_Gurina.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\bin\Debug\zd_2_Gurina.exe.config
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\bin\Debug\zd_2_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\bin\Debug\zd_2_Gurina.pdb
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\obj\Debug\zd_2_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\zd_2_Gurina\obj\Debug\zd_2_Gurina.pdb
